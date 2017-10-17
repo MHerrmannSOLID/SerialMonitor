@@ -1,4 +1,4 @@
-# SerialMonitor
+# SerialMonitor (for Visual Studio 2017 V15)
 This extension for Visual Studio allows you debug programs that work with serial port.
 
 ##Features
